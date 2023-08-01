@@ -1,0 +1,68 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    color:yellow;
+}
+#starters_image_div {
+    border:5px solid blue;
+    text-align: center;
+    background-color: black;
+    margin-left:225px;
+    margin-right:225px ;
+}
+.all_pokemon_container {
+    background-color: black;
+    
+}
+.each_pokemon_container {
+    background-color: black;
+}
+.pokemon_description {
+    color:white;
+}
+.pokemon_description{
+    text-align: center;
+    
+}
+.all_pokemon_container{
+    text-align: center;
+}
+#charmander_container {
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 1px solid lightyellow;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 30px;
+  
+    
+}
+#squirtle_container{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 1px solid lightyellow;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 30px;
+    
+}
+#bulbasaur_container{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 1px solid lightyellow;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 30px;
+}
+.list{
+    background-color: blue;
+    color:white;
+}
+.introduction{
+      background-color: black;
+      color:white;
+      border:50px solid blue;
+}
